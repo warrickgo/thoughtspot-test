@@ -18,13 +18,3 @@
 .ribbon-item {
   display: none;
 }
-
-/* Liveboard - Schedule button */
-.bk-subscribe {
-  display: none;
-}
-
-/* Liveboard - Create Alert button */
-.rd-button-icon-create-monitor {
-  display: none;
-}

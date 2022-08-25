@@ -1,0 +1,25 @@
+/* Library page - Metrics */
+.home-container-module__homepageCarouselContainer {
+  display: none;
+  /* content-visibility: hidden; */
+}
+
+/* Library page - side panel - Trending */
+.layout-module__sidePanel {
+  display: none;
+}
+
+/* Library page - Avatar icons */
+.avatar-module__avatar {
+  display: none;
+}
+
+/* Home page - Liveboard ribbon */
+.ribbon-item {
+  display: none;
+}
+
+/* Schedule - email section */
+.bk-add-email-comp {
+  display: none;
+}
